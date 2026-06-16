@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
 ```markdown
-![Dashboard Preview](screenshots/Retail sales performance dashboard.png)
+![Dashboard Preview](screenshot/Retail sales performance dashboard.png)
 
 [View full dashboard PDF](exports/Retail sales performance dashboard.pdf)
 
