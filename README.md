@@ -1,9 +1,9 @@
 ## Dashboard Preview
 
 ```markdown
-![Dashboard Preview](screenshot/Retail sales performance dashboard.png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
-[View full dashboard PDF](exports/Retail sales performance dashboard.pdf)
+[View full dashboard PDF](export/Retail sales performance dashboard.pdf)
 
 # Retail Sales Performance Dashboard (Excel + Power Query)
 
