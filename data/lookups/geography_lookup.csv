@@ -1,0 +1,31 @@
+city,state,region
+New York,NY,East
+Buffalo,NY,East
+Boston,MA,East
+Cambridge,MA,East
+Philadelphia,PA,East
+Pittsburgh,PA,East
+Miami,FL,South
+Orlando,FL,South
+Atlanta,GA,South
+Savannah,GA,South
+Charlotte,NC,South
+Raleigh,NC,South
+Chicago,IL,Central
+Springfield,IL,Central
+Detroit,MI,Central
+Grand Rapids,MI,Central
+Minneapolis,MN,Central
+St. Paul,MN,Central
+Dallas,TX,Central
+Houston,TX,Central
+Seattle,WA,West
+Spokane,WA,West
+San Francisco,CA,West
+San Diego,CA,West
+Los Angeles,CA,West
+Sacramento,CA,West
+Denver,CO,West
+Boulder,CO,West
+Phoenix,AZ,West
+Tucson,AZ,West

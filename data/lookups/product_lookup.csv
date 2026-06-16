@@ -1,0 +1,37 @@
+product_id,product_name,category,subcategory,base_price,unit_cost,base_return_rate
+FUR-CH-1001,Ergo Mesh Office Chair,Furniture,Chairs,189,118,0.06
+FUR-CH-1002,Executive Leather Chair,Furniture,Chairs,329,205,0.07
+FUR-CH-1003,Guest Reception Chair,Furniture,Chairs,119,72,0.05
+FUR-TB-1001,Adjustable Standing Desk,Furniture,Tables,499,330,0.04
+FUR-TB-1002,Conference Table 8-Seater,Furniture,Tables,899,615,0.03
+FUR-TB-1003,Training Room Folding Table,Furniture,Tables,239,154,0.04
+FUR-ST-1001,5-Shelf Steel Storage Rack,Furniture,Storage,159,102,0.04
+FUR-ST-1002,Mobile Pedestal Cabinet,Furniture,Storage,209,136,0.03
+FUR-ST-1003,Lateral Filing Cabinet,Furniture,Storage,279,184,0.03
+FUR-FU-1001,Acoustic Desk Divider,Furniture,Furnishings,79,42,0.05
+FUR-FU-1002,LED Task Lamp,Furniture,Furnishings,49,23,0.04
+FUR-FU-1003,Anti-Fatigue Floor Mat,Furniture,Furnishings,69,31,0.05
+TEC-PH-1001,Business Smartphone X,Technology,Phones,699,482,0.08
+TEC-PH-1002,VoIP Conference Phone,Technology,Phones,259,166,0.06
+TEC-PH-1003,5G Mobile Hotspot,Technology,Phones,149,89,0.07
+TEC-AC-1001,Wireless Keyboard & Mouse Combo,Technology,Accessories,59,31,0.05
+TEC-AC-1002,USB-C Docking Station,Technology,Accessories,129,81,0.04
+TEC-AC-1003,Noise-Canceling Headset,Technology,Accessories,99,60,0.05
+TEC-MA-1001,Monochrome Laser Printer,Technology,Machines,279,190,0.05
+TEC-MA-1002,All-in-One Inkjet Printer,Technology,Machines,189,122,0.06
+TEC-MA-1003,Document Scanner Pro,Technology,Machines,349,231,0.04
+TEC-CP-1001,High-Speed Office Copier,Technology,Copiers,1499,1040,0.03
+TEC-CP-1002,Desktop Color Copier,Technology,Copiers,899,605,0.03
+TEC-CP-1003,Compact Multifunction Copier,Technology,Copiers,649,432,0.04
+OFF-PA-1001,Premium Copy Paper Pack,Office Supplies,Paper,16,8,0.02
+OFF-PA-1002,Recycled Legal Paper Pack,Office Supplies,Paper,18,9,0.02
+OFF-PA-1003,Color Presentation Paper,Office Supplies,Paper,24,13,0.03
+OFF-BI-1001,3-Ring Binder Set,Office Supplies,Binders,12,5,0.03
+OFF-BI-1002,Label Divider Binder Kit,Office Supplies,Binders,19,8,0.03
+OFF-BI-1003,Archival Storage Binder,Office Supplies,Binders,15,6,0.02
+OFF-AR-1001,Marker & Highlighter Set,Office Supplies,Art,14,6,0.04
+OFF-AR-1002,Presentation Flip Chart Pad,Office Supplies,Art,21,10,0.03
+OFF-AR-1003,Creative Desk Organizer Tray,Office Supplies,Art,11,5,0.03
+OFF-AP-1001,Office Microwave,Office Supplies,Appliances,119,77,0.04
+OFF-AP-1002,Compact Coffee Maker,Office Supplies,Appliances,89,54,0.05
+OFF-AP-1003,Water Dispenser Countertop,Office Supplies,Appliances,159,101,0.05
